@@ -1,0 +1,21 @@
+﻿  main.cpp
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Mesh.h(76,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(72,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(78,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(90,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(134,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(137,23): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(163,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Project20\main.cpp(58,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project20\main.cpp(59,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project20\main.cpp(63,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project20\main.cpp(64,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project20\main.cpp(66,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project20\main.cpp(67,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project20\main.cpp(73,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project20\main.cpp(186,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project20\main.cpp(229,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project20\main.cpp(230,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project20\main.cpp(302,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\cpp\OpenGL\OpenGLProjects\Project20\main.cpp(303,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project20.vcxproj -> E:\cpp\OpenGL\OpenGLProjects\x64\Debug\Project20.exe

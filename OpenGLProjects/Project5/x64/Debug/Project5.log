@@ -1,0 +1,18 @@
+﻿  main.cpp
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Mesh.h(76,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(71,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(77,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(89,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(133,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(136,23): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(162,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Project5\main.cpp(44,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project5\main.cpp(45,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project5\main.cpp(49,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project5\main.cpp(50,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project5\main.cpp(52,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project5\main.cpp(53,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project5\main.cpp(59,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project5\main.cpp(223,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project5\main.cpp(224,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project5.vcxproj -> E:\cpp\OpenGL\OpenGLProjects\x64\Debug\Project5.exe

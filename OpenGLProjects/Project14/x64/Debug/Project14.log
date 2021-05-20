@@ -1,0 +1,24 @@
+﻿  glad.c
+  main.cpp
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Mesh.h(76,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(72,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(78,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(90,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(134,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(137,23): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(163,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Project14\main.cpp(53,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project14\main.cpp(54,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project14\main.cpp(58,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project14\main.cpp(59,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project14\main.cpp(61,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project14\main.cpp(62,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project14\main.cpp(68,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project14\main.cpp(137,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project14\main.cpp(138,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project14\main.cpp(143,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Project14.vcxproj -> E:\cpp\OpenGL\OpenGLProjects\x64\Debug\Project14.exe

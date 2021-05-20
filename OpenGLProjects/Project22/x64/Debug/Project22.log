@@ -1,0 +1,24 @@
+﻿  glad.c
+  main.cpp
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Mesh.h(76,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(72,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(78,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(90,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(134,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(137,23): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(163,22): warning C4018: '<': signed/unsigned mismatch
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(51,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(52,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(56,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(57,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(59,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(60,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(66,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(128,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(129,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(219,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(257,30): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(284,51): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(286,51): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\cpp\OpenGL\OpenGLProjects\Project22\main.cpp(288,51): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  Project22.vcxproj -> E:\cpp\OpenGL\OpenGLProjects\x64\Debug\Project22.exe
