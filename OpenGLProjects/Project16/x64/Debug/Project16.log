@@ -1,19 +1,16 @@
-﻿  main.cpp
-E:\cpp\OpenGL\OpenGLProjects\Helpers\Mesh.h(76,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(72,22): warning C4018: '<': signed/unsigned mismatch
-E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(78,22): warning C4018: '<': signed/unsigned mismatch
-E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(90,22): warning C4018: '<': signed/unsigned mismatch
-E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(134,22): warning C4018: '<': signed/unsigned mismatch
-E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(137,23): warning C4018: '<': signed/unsigned mismatch
-E:\cpp\OpenGL\OpenGLProjects\Helpers\Model.h(163,22): warning C4018: '<': signed/unsigned mismatch
-E:\cpp\OpenGL\OpenGLProjects\Project16\main.cpp(19,24): warning C4305: 'initializing': truncation from 'double' to 'float'
-E:\cpp\OpenGL\OpenGLProjects\Project16\main.cpp(53,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-E:\cpp\OpenGL\OpenGLProjects\Project16\main.cpp(54,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-E:\cpp\OpenGL\OpenGLProjects\Project16\main.cpp(58,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-E:\cpp\OpenGL\OpenGLProjects\Project16\main.cpp(59,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-E:\cpp\OpenGL\OpenGLProjects\Project16\main.cpp(61,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-E:\cpp\OpenGL\OpenGLProjects\Project16\main.cpp(62,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-E:\cpp\OpenGL\OpenGLProjects\Project16\main.cpp(68,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-E:\cpp\OpenGL\OpenGLProjects\Project16\main.cpp(121,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-E:\cpp\OpenGL\OpenGLProjects\Project16\main.cpp(122,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+﻿glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'E:\cpp\OpenGL\OpenGLProjects\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'E:\cpp\OpenGL\OpenGLProjects\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'E:\cpp\OpenGL\OpenGLProjects\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'E:\cpp\OpenGL\OpenGLProjects\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'E:\cpp\OpenGL\OpenGLProjects\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'E:\cpp\OpenGL\OpenGLProjects\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'E:\cpp\OpenGL\OpenGLProjects\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'E:\cpp\OpenGL\OpenGLProjects\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'E:\cpp\OpenGL\OpenGLProjects\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'E:\cpp\OpenGL\OpenGLProjects\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'E:\cpp\OpenGL\OpenGLProjects\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
   Project16.vcxproj -> E:\cpp\OpenGL\OpenGLProjects\x64\Debug\Project16.exe
